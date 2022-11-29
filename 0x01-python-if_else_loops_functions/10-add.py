@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-def add(a, b): return a + b 
+defadd(a, b): return a + b 
